@@ -1,1 +1,1 @@
-# Structured Probabilistic Inference and Generative Modeling 2024 
+# Escuela de Verano en Deep Learning (Buenos Aires) 2025
