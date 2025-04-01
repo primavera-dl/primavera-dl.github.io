@@ -5,18 +5,18 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
-last_name: SPIGM @ ICML2024
-email: spigmworkshop2024@gmail.com
+last_name: Escuela de Verano en Deep Learning @ Cero + Infinito 2025
+email: julian.tachella@cnrs.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
 
 keywords:  # add your own keywords or leave empty
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /assets/img/cell  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://spigmworkshop2024.github.io # the base hostname & protocol for your site
+url: https://primavera-ml.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -65,7 +65,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: frontiers4lcd # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -99,7 +99,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-RMZT0K6QDX # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
