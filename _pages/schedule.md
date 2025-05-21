@@ -13,14 +13,14 @@ nav_order: 2
   <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
     <th style="border-top-left-radius: 10px; width: 20%;">Día y Fecha</th>
     <th style="width: 20%;">Horario</th>
-    <th style="width: 60%; border-top-right-radius: 10px;">Charla (Ponente: Por confirmar)</th>
+    <th style="width: 60%; border-top-right-radius: 10px;">Charla (Ponente)</th>
   </tr>
   
   <!-- Lunes, 20 de octubre -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td rowspan="3"><b>Lunes</b><br>20 de octubre</td>
     <td>09:00 - 12:00</td>
-    <td>Charla 1</td>
+    <td>"Optimización para aprendizaje automático" (Victoria Peterson)</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:30</td>
@@ -28,14 +28,14 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>13:30 - 16:30</td>
-    <td>Charla 2</td>
+    <td>"Pre-entrenamiento de grandes modelos de lenguaje" (Omar Flores)</td>
   </tr>
   
   <!-- Martes, 21 de octubre -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td rowspan="3"><b>Martes</b><br>21 de octubre</td>
     <td>09:00 - 12:00</td>
-    <td>Charla 3</td>
+    <td>"Métricas de evaluación de sistemas de clasificación: costo esperado, proper scoring rules y calibración" (Luciana Ferrer)</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:30</td>
@@ -43,25 +43,29 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>13:30 - 16:30</td>
-    <td>Charla 4</td>
+    <td>"Cuantificación de incertidumbre en variables continuas" (Marcelo Pereyra)</td>
   </tr>
   
   <!-- Miércoles, 22 de octubre (Tarde libre) -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="2"><b>Miércoles</b><br>22 de octubre</td>
+    <td rowspan="3"><b>Miércoles</b><br>22 de octubre</td>
     <td>09:00 - 12:00</td>
-    <td>Charla 5</td>
+    <td>"Modelos de difusión para la generación de video" (José Lezama)</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:30</td>
-    <td><i>Almuerzo / Tiempo libre</i></td>
+    <td><i>Almuerzo</i></td>
+  </tr>
+  <tr class="header">
+    <td>13:30 - 16:30</td>
+    <td>"Modelos de difusión y problemas inversos" (Andrés Almansa)</td>
   </tr>
   
   <!-- Jueves, 23 de octubre -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td rowspan="3"><b>Jueves</b><br>23 de octubre</td>
     <td>09:00 - 12:00</td>
-    <td>Charla 6</td>
+    <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:30</td>
@@ -69,22 +73,18 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>13:30 - 16:30</td>
-    <td>Charla 7</td>
+    <td>"Un enfoque machine learning a la neurociencia" (Demian Wasserman)</td>
   </tr>
   
   <!-- Viernes, 24 de octubre -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="3"><b>Viernes</b><br>24 de octubre</td>
+    <td rowspan="2"><b>Viernes</b><br>24 de octubre</td>
     <td>09:00 - 12:00</td>
-    <td>Charla 8</td>
+    <td>"Transporte Óptimo Computacional" (Marco Cuturi)</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:30</td>
-    <td><i>Almuerzo</i></td>
-  </tr>
-  <tr class="header">
-    <td>13:30 - 16:30</td>
-    <td>Charla 9</td>
+    <td><i>Almuerzo / Tiempo libre</i></td>
   </tr>
 </table>
 </div>
