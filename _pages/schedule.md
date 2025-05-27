@@ -43,14 +43,14 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>13:30 - 16:30</td>
-    <td>"Cuantificación de incertidumbre en variables continuas" (Marcelo Pereyra)</td>
+    <td>"Modelos de difusión para la generación de video" (José Lezama)</td>
   </tr>
   
   <!-- Miércoles, 22 de octubre (Tarde libre) -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td rowspan="3"><b>Miércoles</b><br>22 de octubre</td>
     <td>09:00 - 12:00</td>
-    <td>"Modelos de difusión para la generación de video" (José Lezama)</td>
+    <td>"Metodos Bayesianos y de aprendizaje para problemas inversos en procesamiento de imágenes" (Andrés Almansa)</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:30</td>
@@ -58,7 +58,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>13:30 - 16:30</td>
-    <td>"Modelos de difusión y problemas inversos" (Andrés Almansa)</td>
+    <td>"Cuantificación de incertidumbre en variables continuas" (Marcelo Pereyra)</td>
   </tr>
   
   <!-- Jueves, 23 de octubre -->
