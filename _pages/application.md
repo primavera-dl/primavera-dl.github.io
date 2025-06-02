@@ -3,9 +3,34 @@ layout: page
 permalink: /inscription/
 title: Inscripción
 description: La escuela se dará en el centro Cero + Infinito (Universidad de Buenos Aires), entre el 20 de octubre y el 24 de octubre 2025.
-# <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 1
 ---
 
 [Link al formulario de inscripción](https://forms.gle/nW7NY1SyEexnS54q8)
+
+### Información general
+
+**Fecha del evento:** del 20 al 24 de octubre de 2025  
+**Lugar:** Cero + Infinito, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina.
+
+**Fecha límite de inscripción:** <strong>30 de junio de 2025</strong>  
+**Costo de la inscripción:** 50 dólares (¡becas de inscripción disponibles!)
+
+### Becas
+
+La escuela ofrecerá tres tipos de becas:
+
+1. **Becas de inscripción**  
+   Cubren el total del costo de la escuela.
+
+2. **Becas de viaje y estadía**  
+   - Estadía: cubren el alojamiento durante toda la semana de la escuela (**Ingreso:** 19/10, **Egreso:** 24/10).  
+   - Traslado: cubren un monto de pasajes que dependerá de la ciudad y país de origen de la persona seleccionada.
+
+3. **Becas de cuidado**  
+   Están pensadas para quienes tengan personas a su cargo y necesiten cubrir costos de guardería o cuidado para poder participar de la escuela.
+
+---
+
+Por cualquier consulta, podés escribirnos a: <a href="mailto:primavera.dl2025@gmail.com">primavera.dl2025@gmail.com</a>
