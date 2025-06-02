@@ -7,9 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-### Información general
-
-**Inscripción:** [Link al formulario](https://forms.gle/nW7NY1SyEexnS54q8)
+**Inscripción:** [Link al formulario](https://forms.gle/nW7NY1SyEexnS54q8).  
 **Fecha del evento:** del 20 al 24 de octubre de 2025  
 **Lugar:** Cero + Infinito, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina.
 
