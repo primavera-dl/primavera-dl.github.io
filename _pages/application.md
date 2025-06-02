@@ -2,15 +2,14 @@
 layout: page
 permalink: /inscription/
 title: Inscripción
-description: La escuela se dará en el centro Cero + Infinito (Universidad de Buenos Aires), entre el 20 de octubre y el 24 de octubre 2025.
+description: 
 nav: true
 nav_order: 1
 ---
 
-[Link al formulario de inscripción](https://forms.gle/nW7NY1SyEexnS54q8)
-
 ### Información general
 
+**Inscripción:** [Link al formulario](https://forms.gle/nW7NY1SyEexnS54q8)
 **Fecha del evento:** del 20 al 24 de octubre de 2025  
 **Lugar:** Cero + Infinito, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina.
 
