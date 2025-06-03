@@ -12,7 +12,7 @@ nav_order: 1
 **Lugar:** Cero + Infinito, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina.
 
 **Fecha límite de inscripción:** <strong>30 de junio de 2025</strong>  
-**Costo de la inscripción:** 50 dólares (¡becas de inscripción disponibles!)
+**Costo de la inscripción:** 50 dólares (¡becas de inscripción disponibles!). La inscripción se paga solo una vez que la persona es aceptada. En caso de otorgarse una beca de inscripción, no es necesario abonar ese monto.
 
 ### Becas
 
@@ -27,6 +27,8 @@ La escuela ofrecerá tres tipos de becas:
 
 3. **Becas de cuidado**  
    Están pensadas para quienes tengan personas a su cargo y necesiten cubrir costos de guardería o cuidado para poder participar de la escuela.
+
+Se puede postular a varias becas para cubrir distintos tipos de gastos, según la necesidad.
 
 ---
 
