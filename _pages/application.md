@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+La escuela cuenta con cupos limitados, y las personas participantes serán seleccionadas en función de sus antecedentes, motivación y perspectivas de aprovechamiento de la propuesta. 
+
 **Inscripción:** [Link al formulario](https://forms.gle/nW7NY1SyEexnS54q8).  
 **Fecha del evento:** del 20 al 24 de octubre de 2025  
 **Lugar:** Cero + Infinito, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina.
@@ -28,7 +30,7 @@ La escuela ofrecerá tres tipos de becas:
 3. **Becas de cuidado**  
    Están pensadas para quienes tengan personas a su cargo y necesiten cubrir costos de guardería o cuidado para poder participar de la escuela.
 
-Se puede postular a varias becas para cubrir distintos tipos de gastos, según la necesidad.
+Se puede postular a distintas becas para cubrir diversos tipos de gastos, según la necesidad. Tanto la inscripción como la postulación a becas se realizan a través del mismo formulario.
 
 ---
 
