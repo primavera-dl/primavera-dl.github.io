@@ -7,7 +7,8 @@ nav: true
 nav_order: 1
 ---
 
-La escuela cuenta con cupos limitados, y las personas participantes serán seleccionadas en función de sus antecedentes, motivación y perspectivas de aprovechamiento de la propuesta. 
+
+**La inscripción se encuentra cerrada. Los resultados estarán disponibles durante los primeros días de agosto.**
 
 **Inscripción:** [Link al formulario](https://forms.gle/nW7NY1SyEexnS54q8).  
 **Fecha del evento:** del 20 al 24 de octubre de 2025  
