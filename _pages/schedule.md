@@ -63,22 +63,21 @@ nav_order: 2
   
   <!-- Jueves, 23 de octubre -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td><b>Jueves</b><br>23 de octubre</td>
-    <td>09:00 - 12:00</td>
-    <td colspan="2">"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
+      <td rowspan="4"><b>Jueves</b><br>23 de octubre</td>
+      <td>09:00 - 10:30</td>
+      <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
   </tr>
-  <tr style="background-color:rgb(240, 240, 240);">
-    <td></td>
-    <td>09:00 - 12:00</td>
-    <td colspan="2">"AI para descubrimiento de vulnerabilidades de ciberseguridad" (Martin Arjvoiky)</td>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+      <td>10:30 - 12:00</td>
+      <td>"Aprendizaje autosupervisado para problemas inversos" (Martin Arjvoiky)</td>
   </tr>
-  <tr class="header">
-    <td>12:00 - 13:30</td>
-    <td><i>Almuerzo</i></td>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+      <td>12:00 - 13:30</td>
+      <td><i>Almuerzo</i></td>
   </tr>
-  <tr class="header">
-    <td>13:30 - 16:30</td>
-    <td>"Un enfoque machine learning a la neurociencia" (Demian Wasserman)</td>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+      <td>13:30 - 16:30</td>
+      <td>"Un enfoque machine learning a la neurociencia" (Demian Wasserman)</td>
   </tr>
   
   <!-- Viernes, 24 de octubre -->
