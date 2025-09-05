@@ -66,6 +66,7 @@ nav_order: 2
     <td rowspan="3"><b>Jueves</b><br>23 de octubre</td>
     <td>09:00 - 12:00</td>
     <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
+    <td>"AI para descubrimiento de vulnerabilidades de ciberseguridad" (Martin Arjvoiky)</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:30</td>
