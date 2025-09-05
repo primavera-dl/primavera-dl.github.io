@@ -67,15 +67,15 @@ nav_order: 2
       <td>09:00 - 10:30</td>
       <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
   </tr>
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
+  <tr class="header">
       <td>10:30 - 12:00</td>
       <td>"Aprendizaje autosupervisado para problemas inversos" (Martin Arjvoiky)</td>
   </tr>
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
+  <tr class="header">
       <td>12:00 - 13:30</td>
       <td><i>Almuerzo</i></td>
   </tr>
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
+  <tr class="header">
       <td>13:30 - 16:30</td>
       <td>"Un enfoque machine learning a la neurociencia" (Demian Wasserman)</td>
   </tr>
