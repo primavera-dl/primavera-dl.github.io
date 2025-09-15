@@ -69,7 +69,7 @@ nav_order: 2
   </tr>
   <tr class="header">
       <td>10:30 - 12:00</td>
-      <td>"Aprendizaje autosupervisado para problemas inversos" (Martin Arjvoiky)</td>
+      <td>"AI para descubrimiento de vulnerabilidades de ciberseguridad" (Martin Arjvoiky)</td>
   </tr>
   <tr class="header">
       <td>12:00 - 13:30</td>
