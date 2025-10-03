@@ -10,13 +10,13 @@ nav_order: 2
 
 <div>
 <table class="table" id="standings" style="border-collapse:collapse; width:100%; text-align:center;">
-  <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
-    <th style="border-top-left-radius: 10px; width: 15%;">Horario</th>
-    <th style="width: 17%;">Lunes<br>20 de octubre</th>
-    <th style="width: 17%;">Martes<br>21 de octubre</th>
-    <th style="width: 17%;">Miércoles<br>22 de octubre</th>
-    <th style="width: 17%;">Jueves<br>23 de octubre</th>
-    <th style="width: 17%; border-top-right-radius: 10px;">Viernes<br>24 de octubre</th>
+  <tr style="background-color:rgb(215, 215, 215);">
+    <th>Horario</th>
+    <th>Lunes<br>20 de octubre</th>
+    <th>Martes<br>21 de octubre</th>
+    <th>Miércoles<br>22 de octubre</th>
+    <th>Jueves<br>23 de octubre</th>
+    <th>Viernes<br>24 de octubre</th>
   </tr>
   
   <!-- 09:00 - 10:30 -->
