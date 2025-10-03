@@ -23,9 +23,9 @@ nav_order: 2
   <tr style="background-color:rgb(240,240,240);">
     <td>09:00 - 10:30</td>
     <td>Apertura<br>"Pre-entrenamiento de grandes modelos de lenguaje" (Omar Flores)</td>
-    <td>"Métricas de evaluación..." (Luciana Ferrer)</td>
-    <td>"Métodos Bayesianos..." (Andrés Almansa)</td>
-    <td>"Aprendizaje autosupervisado..." (Julián Tachella)</td>
+    <td>"Métricas de evaluación de sistemas de clasificación: costo esperado, proper scoring rules y calibración" (Luciana Ferrer)</td>
+    <td>"Metodos Bayesianos y de aprendizaje para problemas inversos en procesamiento de imágenes" (Andrés Almansa)</td>
+    <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
     <td>"Transporte Óptimo Computacional" (Marco Cuturi)</td>
   </tr>
 
@@ -43,9 +43,9 @@ nav_order: 2
   <tr style="background-color:rgb(240,240,240);">
     <td>10:50 - 12:00</td>
     <td>"Pre-entrenamiento de grandes modelos de lenguaje" (Omar Flores)</td>
-    <td>"Métricas de evaluación..." (Luciana Ferrer)</td>
-    <td>"Métodos Bayesianos..." (Andrés Almansa)</td>
-    <td>"Aprendizaje autosupervisado..." (Julián Tachella)</td>
+    <td>"Métricas de evaluación de sistemas de clasificación: costo esperado, proper scoring rules y calibración" (Luciana Ferrer)</td>
+    <td>"Metodos Bayesianos y de aprendizaje para problemas inversos en procesamiento de imágenes" (Andrés Almansa)</td>
+    <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
     <td>"Transporte Óptimo Computacional" (Marco Cuturi)</td>
   </tr>
 
@@ -63,8 +63,8 @@ nav_order: 2
   <tr style="background-color:rgb(240,240,240);">
     <td>13:30 - 15:00</td>
     <td>"Optimización para aprendizaje automático" (Victoria Peterson)</td>
-    <td>"Modelos de difusión..." (José Lezama)</td>
-    <td>"Cuantificación de incertidumbre..." (Marcelo Pereyra)</td>
+    <td>"Modelos de difusión para la generación de video" (José Lezama)</td>
+    <td>"Cuantificación de incertidumbre en variables continuas" (Marcelo Pereyra)</td>
     <td>"Un enfoque ML a la neurociencia" (Demian Wasserman)</td>
     <td></td>
   </tr>
@@ -83,8 +83,8 @@ nav_order: 2
   <tr style="background-color:rgb(240,240,240);">
     <td>15:20 - 16:30</td>
     <td>"Optimización para aprendizaje automático" (Victoria Peterson)</td>
-    <td>"Modelos de difusión..." (José Lezama)</td>
-    <td>"AI para ciberseguridad" (Martin Arjvoiky)</td>
+    <td>"Modelos de difusión para la generación de video" (José Lezama)</td>
+    <td>"AI para descubrimiento de vulnerabilidades de ciberseguridad" (Martin Arjvoiky)</td>
     <td>"Un enfoque ML a la neurociencia" (Demian Wasserman)</td>
     <td></td>
   </tr>
