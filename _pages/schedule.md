@@ -7,10 +7,10 @@ description: La escuela se dará en el Aula Magna del Pabellón 1 (Universidad d
 nav: true
 nav_order: 2
 ---
-
 <div>
-<table class="table" id="schedule-table" style="border-collapse:collapse; width:100%; text-align:center;">
+<table id="schedule-table" style="border-collapse:collapse; width:100%; text-align:center; border: 1px solid #ddd;">
   <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
+    <!-- resto del código igual -->
     <th style="border-top-left-radius: 10px; width: 15%;">Horario</th>
     <th style="width: 17%;">Lunes<br>20 de octubre</th>
     <th style="width: 17%;">Martes<br>21 de octubre</th>
