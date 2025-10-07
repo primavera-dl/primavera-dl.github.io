@@ -9,7 +9,7 @@ nav_order: 2
 ---
 
 <div>
-<table class="table" id="standings" style="border-collapse:collapse; width:100%; text-align:center;">
+<table class="table" id="schedule-table" style="border-collapse:collapse; width:100%; text-align:center;">
   <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
     <th style="border-top-left-radius: 10px; width: 15%;">Horario</th>
     <th style="width: 17%;">Lunes<br>20 de octubre</th>
