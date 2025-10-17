@@ -74,7 +74,7 @@ nav_order: 2
       <!-- 09:00 - 10:30 -->
       <tr class="alt-row">
         <td>09:00 - 10:30</td>
-        <td>Apertura<br>"Pre-entrenamiento de grandes modelos de lenguaje" (Omar Flores)</td>
+        <td>Apertura<br>"Pre-entrenamiento de grandes modelos de lenguaje" (Omar Florez)</td>
         <td>"Métricas de evaluación de sistemas de clasificación: costo esperado, proper scoring rules y calibración" (Luciana Ferrer)</td>
         <td>"Metodos Bayesianos y de aprendizaje para problemas inversos en procesamiento de imágenes" (Andrés Almansa)</td>
         <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
@@ -92,7 +92,7 @@ nav_order: 2
       <!-- 10:50 - 12:00 -->
       <tr class="alt-row">
         <td>10:50 - 12:00</td>
-        <td>"Pre-entrenamiento de grandes modelos de lenguaje" (Omar Flores)</td>
+        <td>"Pre-entrenamiento de grandes modelos de lenguaje" (Omar Florez)</td>
         <td>"Métricas de evaluación de sistemas de clasificación: costo esperado, proper scoring rules y calibración" (Luciana Ferrer)</td>
         <td>"Metodos Bayesianos y de aprendizaje para problemas inversos en procesamiento de imágenes" (Andrés Almansa)</td>
         <td>"Aprendizaje autosupervisado para problemas inversos" (Julián Tachella)</td>
