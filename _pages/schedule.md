@@ -130,7 +130,7 @@ nav_order: 2
         <td>15:20 - 16:30</td>
         <td>"Optimización para aprendizaje automático" (Victoria Peterson)</td>
         <td>"Modelos de difusión para la generación de video" (José Lezama)</td>
-        <td>"AI para descubrimiento de vulnerabilidades de ciberseguridad" (Martin Arjvoiky)</td>
+        <td>"AI para descubrimiento de vulnerabilidades de ciberseguridad" (Martin Arjovsky)</td>
         <td>"Un enfoque ML a la neurociencia" (Demian Wasserman)</td>
         <td></td>
       </tr>
