@@ -69,6 +69,22 @@ sitemap: false
       color: white;
       text-decoration: none;
     }
+    /* Grid layout for speakers (replaces masonry.js) */
+    .speakers .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+    .speakers .grid .grid-item {
+      width: 100%;
+    }
+    .speakers .grid .grid-item .card {
+      height: 100%;
+    }
+    .speakers .grid .grid-item .card img {
+      width: 100%;
+      height: auto;
+    }
   </style>
 </head>
 <body class="fixed-top-nav sticky-bottom-footer">
