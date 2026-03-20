@@ -71,12 +71,24 @@ sitemap: false
     }
     /* Grid layout for speakers (replaces masonry.js) */
     .speakers .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-      gap: 1.5rem;
+      display: grid !important;
+      grid-template-columns: repeat(3, 1fr) !important;
+      gap: 1.5rem !important;
+      width: 100% !important;
+    }
+    @media (max-width: 768px) {
+      .speakers .grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+      }
+    }
+    @media (max-width: 480px) {
+      .speakers .grid {
+        grid-template-columns: 1fr !important;
+      }
     }
     .speakers .grid .grid-item {
-      width: 100%;
+      width: 100% !important;
+      position: relative !important;
     }
     .speakers .grid .grid-item .card {
       height: 100%;
