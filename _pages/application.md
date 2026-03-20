@@ -18,4 +18,4 @@ nav_order: 1
 
 ---
 
-Por cualquier consulta, podés escribirnos a: <a href="mailto:primavera.dl2026@gmail.com">primavera.dl2026@gmail.com</a>
+Por cualquier consulta, podés escribirnos a: <a href="mailto:escuelaprimavera.dl@gmail.com">escuelaprimavera.dl@gmail.com</a>
