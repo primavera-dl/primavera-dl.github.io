@@ -9,6 +9,7 @@ nav_order: 1
 
 La escuela cuenta con cupos limitados, y las personas participantes serán seleccionadas en función de sus antecedentes, motivación y perspectivas de aprovechamiento de la propuesta. 
 
+**⚠️ Las inscripciones han cerrado.** Los resultados se comunicarán por correo electrónico a los inscriptos a mediados de septiembre.
 
 **Inscripción:** [Link al formulario](https://forms.gle/dzVydb3bo1yfgeZj6).  
 **Fecha del evento:** del 9 al 13 de noviembre de 2026  
