@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Programa
-description: La 2da Escuela de Primavera en Deep Learning se dará en [LUGAR], entre el [XX] y el [XX] de octubre de 2026.
+description: La 2da Escuela de Primavera en Deep Learning se dará entre el 11 y el 13 de noviembre de 2026.
 nav: true
 nav_order: 2
 ---
