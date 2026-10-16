@@ -52,9 +52,9 @@ nav_order: 2
   <table class="schedule-static">
     <thead>
       <tr class="header">
-        <th style="width: 33%;">Miércoles<br>[XX] de octubre</th>
-        <th style="width: 33%;">Jueves<br>[XX] de octubre</th>
-        <th style="width: 33%;">Viernes<br>[XX] de octubre</th>
+        <th style="width: 33%;">Miércoles<br>11 de noviembre</th>
+        <th style="width: 33%;">Jueves<br>12 de noviembre</th>
+        <th style="width: 33%;">Viernes<br>13 de noviembre</th>
       </tr>
     </thead>
     <tbody>
