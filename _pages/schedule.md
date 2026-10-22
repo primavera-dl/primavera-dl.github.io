@@ -59,8 +59,8 @@ nav_order: 2
 <div class="lunch"><span class="time">12:45 - 14:00</span><strong><i>Almuerzo</i></strong></div>
 <div class="lunch"><span class="time">12:30 - 14:00</span><strong><i>Almuerzo</i></strong></div>
 <div class="lunch"><span class="time">12:30 - 14:00</span><strong><i>Almuerzo</i></strong></div>
-<div class="talk"><span class="time">14:00 - 15:30</span>"Explorando los límites de resolución del análisis de imágenes de resonancia magnética cerebral (en ambas direcciones)" <strong>Juan Eugenio Iglesias</strong></div>
-<div class="talk"><span class="time">14:00 - 15:30</span>"A confirmar" <strong>Tomás Geffner</strong></div>
+<div class="talk"><span class="time">14:00 - 15:30</span>"Explorando los límites de resolución del análisis de imágenes de resonancia magnética cerebral con ML (en ambas direcciones)" <strong>Juan Eugenio Iglesias</strong></div>
+<div class="talk"><span class="time">14:00 - 15:30</span>"Modelos de difusión y flow matching" <strong>Tomás Geffner</strong></div>
 <div class="talk"><span class="time">14:00 - 15:30</span>"Causalidad y Transfer Learning: Qué haces cuando no ves?" <strong>Mariela Sued</strong></div>
 <div class="break"><span class="time">15:30 - 16:00</span><i>Coffee break</i></div>
 <div class="break"><span class="time">15:30 - 16:00</span><i>Coffee break</i></div>
