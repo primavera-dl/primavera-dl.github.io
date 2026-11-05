@@ -63,8 +63,8 @@ nav_order: 2
 <div class="lunch"><span class="time">12:30 - 14:00</span><strong><i>Almuerzo</i></strong></div>
 <div class="talk"><span class="time">14:00 - 15:30</span>"Explorando los límites de resolución del análisis de imágenes de resonancia magnética cerebral con ML (en ambas direcciones)" <strong>Juan Eugenio Iglesias</strong><br><small><i>Harvard Medical School y Massachusetts General Hospital</i></small></div>
 <div class="talk"><span class="time">14:00 - 15:30</span>"Del ruido al diseño de proteínas: introducción a modelos de difusión" <strong>Tomás Geffner</strong><br><small><i>NVIDIA</i></small></div>
-<div class="talk"><span class="time">14:00 - 15:30</span>"Causalidad y Transfer Learning: Qué haces cuando no ves?" <strong>Mariela Sued</strong><br><small><i>Universidad de San Andrés - CONICET</i></small></div>
-<div class="posters"><span class="time">15:30 - 15:45</span><i>Charla Sponsor: ZS</i><br><br><span class="time">15:45 - 17:30</span><strong><i>Sesión de pósters + coffee</i></strong></div>
+<div class="talk"><span class="time">14:00 - 15:30</span>"Causalidad y Transfer Learning: Qué haces cuando no ves?" <strong>Mariela Sued</strong><br><small><i>Universidad de San Andrés - CONICET</i></small><br><br><span class="time">15:30 - 15:45</span><i>Charla Sponsor: ZS</i></div>
+<div class="posters"><span class="time">15:45 - 17:30</span><strong><i>Sesión de pósters + coffee</i></strong></div>
 <div class="break"><span class="time">15:30 - 16:00</span><i>Coffee break</i></div>
 <div class="empty"></div>
 <div class="talk"><span class="time">16:00 - 17:00</span>"Los obreros de la IA: trabajo de datos, precarización y sesgos" <strong>Milagros Miceli</strong><br><small><i>DAIR Institute</i></small></div>
