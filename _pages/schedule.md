@@ -50,7 +50,7 @@ nav_order: 2
 <div class="head">Jueves<br>12 de noviembre</div>
 <div class="head">Viernes<br>13 de noviembre</div>
 <div class="talk"><span class="time">09:00 - 09:15</span><i>Apertura</i><br><br><span class="time">09:15 - 10:45</span>"Modelos generativos para series temporales" <strong>Felipe Tobar</strong><br><small><i>Imperial College London</i></small></div>
-<div class="talk"><span class="time">09:00 - 10:30</span>"¿Qué mira la máquina cuando nos mira? Luces, sombras y puntos ciegos de la visión artificial" <strong>Gabriel Kreiman</strong><br><small><i>Harvard Medical School y Engramme</i></small><br><br><span class="time">10:30 - 10:45</span><i>Charla Sponsor: Multidisciplinary Institute in Artificial Intelligence of Grenoble</i></div>
+<div class="talk"><span class="time">09:00 - 10:30</span>"Causalidad y Transfer Learning: Qué haces cuando no ves?" <strong>Mariela Sued</strong><br><small><i>Universidad de San Andrés - CONICET</i></small><br><br><span class="time">10:30 - 10:45</span><i>Charla Sponsor: Multidisciplinary Institute in Artificial Intelligence of Grenoble</i></div>
 <div class="talk"><span class="time">09:00 - 10:30</span>"Eficiencia en LLMs y sistemas agénticos: de la GPU a la orquestación, métodos para una adopción generalizada" <strong>Luciano del Corro</strong><br><small><i>Universidad de San Andrés</i></small></div>
 <div class="break"><span class="time">10:45 - 11:15</span><i>Coffee break</i></div>
 <div class="break"><span class="time">10:45 - 11:15</span><i>Coffee break</i></div>
@@ -63,7 +63,7 @@ nav_order: 2
 <div class="lunch"><span class="time">12:30 - 14:00</span><strong><i>Almuerzo</i></strong></div>
 <div class="talk"><span class="time">14:00 - 15:30</span>"Explorando los límites de resolución del análisis de imágenes de resonancia magnética cerebral con ML (en ambas direcciones)" <strong>Juan Eugenio Iglesias</strong><br><small><i>Harvard Medical School y Massachusetts General Hospital</i></small><br><br><span class="time">15:30 - 15:45</span><i>Charla Sponsor: ZS</i></div>
 <div class="talk"><span class="time">14:00 - 15:30</span>"Del ruido al diseño de proteínas: introducción a modelos de difusión" <strong>Tomás Geffner</strong><br><small><i>NVIDIA</i></small></div>
-<div class="talk"><span class="time">14:00 - 15:30</span>"Causalidad y Transfer Learning: Qué haces cuando no ves?" <strong>Mariela Sued</strong><br><small><i>Universidad de San Andrés - CONICET</i></small></div>
+<div class="talk"><span class="time">14:00 - 15:30</span>"¿Qué mira la máquina cuando nos mira? Luces, sombras y puntos ciegos de la visión artificial" <strong>Gabriel Kreiman</strong><br><small><i>Harvard Medical School y Engramme</i></small></div>
 <div class="posters"><span class="time">15:45 - 17:30</span><strong><i>Sesión de pósters + coffee</i></strong></div>
 <div class="break"><span class="time">15:30 - 16:00</span><i>Coffee break</i></div>
 <div class="empty"></div>
