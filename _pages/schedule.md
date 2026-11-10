@@ -61,7 +61,7 @@ nav_order: 2
 <div class="lunch"><span class="time">12:45 - 14:00</span><strong><i>Almuerzo</i></strong></div>
 <div class="lunch"><span class="time">12:45 - 14:00</span><strong><i>Almuerzo</i></strong></div>
 <div class="lunch"><span class="time">12:30 - 14:00</span><strong><i>Almuerzo</i></strong></div>
-<div class="talk"><span class="time">14:00 - 15:30</span>"Explorando los límites de resolución del análisis de imágenes de resonancia magnética cerebral con ML (en ambas direcciones)" <strong>Juan Eugenio Iglesias</strong><br><small><i>Harvard Medical School y Massachusetts General Hospital</i></small><br><br><span class="time">15:30 - 15:45</span><i>Charla Sponsor: ZS</i></div>
+<div class="talk"><span class="time">14:00 - 14:45</span>"Métodos basados en aprendizaje para la reconstrucción de imágenes" <strong>Julian Tachella</strong><br><br><span class="time">14:45 - 15:30</span>"Segmentación anatómica robusta de imágenes médicas mediante redes neuronales en grafos" <strong>Enzo Ferrante</strong><br><br><span class="time">15:30 - 15:45</span><i>Charla Sponsor: ZS</i></div>
 <div class="talk"><span class="time">14:00 - 15:30</span>"Del ruido al diseño de proteínas: introducción a modelos de difusión" <strong>Tomás Geffner</strong><br><small><i>NVIDIA</i></small></div>
 <div class="talk"><span class="time">14:00 - 15:30</span>"¿Qué mira la máquina cuando nos mira? Luces, sombras y puntos ciegos de la visión artificial" <strong>Gabriel Kreiman</strong><br><small><i>Harvard Medical School y Engramme</i></small></div>
 <div class="posters"><span class="time">15:45 - 17:30</span><strong><i>Sesión de pósters + coffee</i></strong></div>
