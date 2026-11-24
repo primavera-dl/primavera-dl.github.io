@@ -40,6 +40,7 @@ nav_order: 2
   .schedule-grid .lunch { background-color: #faefd9; }
   .schedule-grid .break { background-color: #f0f0f0; font-size: 0.9em; }
   .schedule-grid .cocktail { background-color: #fde3d6; }
+  .schedule-grid .tango { background-color: #f6dde4; }
   .schedule-grid .empty { background: none; }
 </style>
 
@@ -71,6 +72,9 @@ nav_order: 2
 <div class="empty"></div>
 <div class="cocktail"><span class="time">17:30 - 19:00</span><strong><i>Cocktail de bienvenida</i></strong></div>
 <div class="panel"><span class="time">17:00 - 18:00</span><strong>Panel</strong></div>
+<div class="empty"></div>
+<div class="empty"></div>
+<div class="tango"><span class="time">18:00 - 20:00</span><strong><i>Tango</i></strong><small><a href="https://drive.google.com/drive/folders/1-ZawRr2rvFUlTIypUoGHD88eC8C6nUzO" target="_blank" rel="noopener">Fotos y videos</a></small></div>
 <div class="empty"></div>
 </div>
 </div>
